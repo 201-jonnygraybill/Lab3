@@ -3,7 +3,9 @@
   }
 
   body {
-      background-color: lightgreen;
+    background-color: rgb(185, 194, 192);
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
   }
 
   a:visited {
